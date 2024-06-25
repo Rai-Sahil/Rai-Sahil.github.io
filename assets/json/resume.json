@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sahil Rai",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "raisahil580@gmail.com",
+    "phone": "(236) 8589811",
+    "url": "https://Rai-Sahil.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Pemberton Cres",
+      "postalCode": "V4C 3J4",
+      "city": "Delta",
+      "countryCode": "CA",
+      "region": "British Columbia"
     },
     "profiles": [
       {
-        "network": "Twitter",
+        "network": "LinkedIn",
         "username": "AlbertEinstein",
         "url": "https://twitter.com/AlbertEinstein"
       }

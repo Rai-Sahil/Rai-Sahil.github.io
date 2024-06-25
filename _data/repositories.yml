@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Rai-Sahil
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Rai-Sahil/DocuIns
+  - Rai-Sahil/Risings-PM-Backend
+  - Rai-Sahil/Machine-Learning
+  - Rai-Sahil/Web-Code-Editor
+  - Rai-Sahil/COMP-4800---City-of-Vancouver
+  - Rai-Sahil/Video-Streaming-App
+  - Rai-Sahil/Portfolio-React
